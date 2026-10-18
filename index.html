@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mapa Bíblico</title>
+<meta name="description" content="Mapa de calor de los pasajes bíblicos predicados, a partir de los sermones analizados.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap">
+<script>try{var t=localStorage.getItem("mapa-tema");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}</script>
+<link rel="stylesheet" href="css/app.css">
+<!-- Preact 10.26.9 + htm 3.1.1, vendored unmodified in vendor/ (see vendor/VERSIONS.md). -->
+<script type="importmap">
+{"imports":{"preact":"./vendor/preact.module.js","preact/hooks":"./vendor/hooks.module.js","htm":"./vendor/htm.module.js"}}
+</script>
+</head>
+<body>
+<div id="app"><p class="boot">Cargando el mapa…</p></div>
+<noscript><p class="nojs">Este mapa necesita JavaScript para dibujarse. Actívalo en tu navegador, o lee los análisis directamente en la carpeta <code>sermones/</code>.</p></noscript>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
