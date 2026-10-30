@@ -14,7 +14,19 @@
 <script type="importmap">
 {"imports":{"preact":"./vendor/preact.module.js","preact/hooks":"./vendor/hooks.module.js","htm":"./vendor/htm.module.js"}}
 </script>
-<!-- Visit counter: https://efi0ng.goatcounter.com (no cookies). -->
+<!-- Visit counter: https://efi0ng.goatcounter.com (no cookies). Counts each passage opened in the
+     map as its own path (e.g. /mapa-biblico/#Rom/8/28); the ?serie/vista part is dropped, and
+     changing only those does not count again. -->
+<script>
+(function () {
+  var last = null;
+  function passage() { var h = location.hash.split("?")[0]; return h.length > 1 ? h : ""; }
+  window.goatcounter = { path: function (p) { last = passage(); return p + last; } };
+  addEventListener("hashchange", function () {
+    if (passage() !== last && window.goatcounter.count) window.goatcounter.count();
+  });
+})();
+</script>
 <script data-goatcounter="https://efi0ng.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </head>
 <body>
