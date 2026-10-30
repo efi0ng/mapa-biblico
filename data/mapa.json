@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T07:31:41Z",
+ "generated": "2026-10-30T10:01:03Z",
  "church": "CMB La Floresta · Cali",
  "books": [
   {
@@ -8426,6 +8426,248 @@
      "v2": 23,
      "sec": "Glorificados: Autoridad sobre los Demonios",
      "sum": "Al que cree todo le es posible"
+    }
+   ]
+  },
+  {
+   "id": "20261025_Culto",
+   "date": "2026-10-25",
+   "series": "Culto",
+   "title": "La mente renovada: derribando fortalezas",
+   "page": "sermones/20261025_Culto.html",
+   "refs": [
+    {
+     "b": "Rom",
+     "c": 8,
+     "v1": 32,
+     "v2": 32,
+     "sec": "En la Mente se Maquina Todo",
+     "sum": "El Padre no escatimó ni a su propio Hijo, y con Él nos dio todas las cosas"
+    },
+    {
+     "b": "Rom",
+     "c": 1,
+     "v1": 28,
+     "v2": 28,
+     "sec": "En la Mente se Maquina Todo",
+     "sum": "Como no aprobaron tener en cuenta a Dios, Dios los entregó a una mente reprobada para hacer cosas que no convienen"
+    },
+    {
+     "b": "Jer",
+     "c": 31,
+     "v1": 33,
+     "v2": 33,
+     "sec": "La Promesa de una Mente Nueva: Profecía y Cumplimiento",
+     "sum": "Profecía del nuevo pacto en que Dios pondrá su ley en la mente y la escribirá en el corazón"
+    },
+    {
+     "b": "Heb",
+     "c": 8,
+     "v1": 10,
+     "v2": 10,
+     "sec": "La Promesa de una Mente Nueva: Profecía y Cumplimiento",
+     "sum": "Cumplimiento del nuevo pacto: Dios pone sus leyes en la mente y las escribe en el corazón"
+    },
+    {
+     "b": "Eph",
+     "c": 4,
+     "v1": 23,
+     "v2": 23,
+     "sec": "Renovaos en el Espíritu de Vuestra Mente",
+     "sum": "Renovaos en el espíritu de vuestra mente"
+    },
+    {
+     "b": "2Cor",
+     "c": 10,
+     "v1": 3,
+     "v2": 5,
+     "sec": "Las Armas para Destruir Fortalezas",
+     "sum": "Las armas de nuestra milicia son poderosas en Dios para destruir fortalezas y llevar cautivo todo pensamiento a la obediencia a Cristo"
+    },
+    {
+     "b": "1John",
+     "c": 4,
+     "v1": 18,
+     "v2": 18,
+     "sec": "El Pecado Empieza como una Semilla",
+     "sum": "En el amor no hay temor"
+    },
+    {
+     "b": "Col",
+     "c": 2,
+     "v1": 18,
+     "v2": 18,
+     "sec": "La Mente Carnal",
+     "sum": "Nadie os prive del premio afectando humildad y culto a los ángeles, hinchado por su propia mente carnal"
+    },
+    {
+     "b": "Gal",
+     "c": 5,
+     "v1": 19,
+     "v2": 21,
+     "sec": "La Mente Carnal",
+     "sum": "Las obras de la carne, como adulterio, idolatría, hechicerías, iras, contiendas, envidias y homicidios"
+    },
+    {
+     "b": "Gal",
+     "c": 5,
+     "v1": 16,
+     "v2": 16,
+     "sec": "La Mente Carnal",
+     "sum": "Andad en el Espíritu y no satisfagáis los deseos de la carne"
+    },
+    {
+     "b": "Phil",
+     "c": 4,
+     "v1": 8,
+     "v2": 8,
+     "sec": "La Mente Espiritual",
+     "sum": "Pensar en todo lo verdadero, honesto, justo, puro, amable y de buen nombre"
+    },
+    {
+     "b": "Luke",
+     "c": 23,
+     "v1": 34,
+     "v2": 34,
+     "sec": "Llevar las Ofensas al Plano de la Ignorancia",
+     "sum": "Jesús pide al Padre que perdone a quienes lo crucifican porque no saben lo que hacen"
+    },
+    {
+     "b": "Matt",
+     "c": 11,
+     "v1": 11,
+     "v2": 11,
+     "sec": "Conclusión: Conocer lo que Habita en la Mente",
+     "sum": "Nadie ha sido mayor que Juan el Bautista, pero el menor en el reino de los cielos es mayor que él"
+    },
+    {
+     "b": "Rom",
+     "c": 8,
+     "v1": 37,
+     "v2": 37,
+     "sec": "Conclusión: Conocer lo que Habita en la Mente",
+     "sum": "En todas estas cosas somos más que vencedores por medio de Aquel que nos amó"
+    }
+   ]
+  },
+  {
+   "id": "20261028_Ayuno",
+   "date": "2026-10-28",
+   "series": "Ayuno",
+   "title": "Si Dios es por nosotros, ¿quién contra nosotros?",
+   "page": "sermones/20261028_Ayuno.html",
+   "refs": [
+    {
+     "b": "Heb",
+     "c": 11,
+     "v1": 6,
+     "v2": 6,
+     "sec": "Sin Fe es Imposible Agradar a Dios",
+     "sum": "Sin fe es imposible agradar a Dios"
+    },
+    {
+     "b": "Rom",
+     "c": 1,
+     "v1": 16,
+     "v2": 16,
+     "sec": "El Falso Evangelio del Sufrimiento",
+     "sum": "El Evangelio es poder de Dios para salvación de todo aquel que cree"
+    },
+    {
+     "b": "Eph",
+     "c": 1,
+     "v1": 3,
+     "v2": 7,
+     "sec": "Escogidos, Predestinados y Aceptos en el Amado",
+     "sum": "Dios nos escogió en Cristo antes de la fundación del mundo, nos predestinó para ser adoptados hijos y nos hizo aceptos en el Amado"
+    },
+    {
+     "b": "Luke",
+     "c": 15,
+     "v1": 11,
+     "v2": 32,
+     "sec": "Escogidos, Predestinados y Aceptos en el Amado",
+     "sum": "Parábola del hijo pródigo, a quien el padre recibe como si hubiera resucitado"
+    },
+    {
+     "b": "Rom",
+     "c": 8,
+     "v1": 28,
+     "v2": 30,
+     "sec": "Llamados, Justificados y Glorificados",
+     "sum": "A los que Dios conoció, predestinó, llamó y justificó, también los glorificó"
+    },
+    {
+     "b": "Rom",
+     "c": 8,
+     "v1": 31,
+     "v2": 31,
+     "sec": "¿Qué, pues, Diremos a Esto?",
+     "sum": "Si Dios es por nosotros, ¿quién contra nosotros?"
+    },
+    {
+     "b": "John",
+     "c": 10,
+     "v1": 10,
+     "v2": 10,
+     "sec": "Los Demonios no Tienen Derecho sobre el Hijo de Dios",
+     "sum": "El ladrón viene a matar, robar y destruir; Cristo vino para dar vida en abundancia"
+    },
+    {
+     "b": "Rev",
+     "c": 13,
+     "v1": 8,
+     "v2": 8,
+     "sec": "Oración y Ministración",
+     "sum": "El Cordero fue inmolado desde la fundación del mundo"
+    },
+    {
+     "b": "Job",
+     "c": 1,
+     "v1": 10,
+     "v2": 10,
+     "sec": "Oración y Ministración",
+     "sum": "Dios había puesto un vallado de protección alrededor de Job, de su casa y de todo lo que tenía"
+    },
+    {
+     "b": "1John",
+     "c": 4,
+     "v1": 4,
+     "v2": 4,
+     "sec": "Oración y Ministración",
+     "sum": "Mayor es el que está en vosotros que el que está en el mundo"
+    },
+    {
+     "b": "Isa",
+     "c": 53,
+     "v1": 5,
+     "v2": 5,
+     "sec": "Oración y Ministración",
+     "sum": "El castigo de nuestra paz fue sobre Él y por su llaga fuimos nosotros curados"
+    },
+    {
+     "b": "Col",
+     "c": 2,
+     "v1": 15,
+     "v2": 15,
+     "sec": "Oración y Ministración",
+     "sum": "Cristo despojó a los principados y potestades y los exhibió públicamente, triunfando sobre ellos en la cruz"
+    },
+    {
+     "b": "2Cor",
+     "c": 8,
+     "v1": 9,
+     "v2": 9,
+     "sec": "Oración y Ministración",
+     "sum": "Jesucristo, siendo rico, se hizo pobre para que fuéramos enriquecidos con su pobreza"
+    },
+    {
+     "b": "Rom",
+     "c": 10,
+     "v1": 10,
+     "v2": 10,
+     "sec": "Oración y Ministración",
+     "sum": "Con el corazón se cree para justicia y con la boca se confiesa para salvación"
     }
    ]
   }
